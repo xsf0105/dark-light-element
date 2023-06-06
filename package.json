@@ -1,6 +1,6 @@
 {
   "name": "dark-light-element",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "frontend",
     "quark",
@@ -21,6 +21,11 @@
       "require": "./lib/index.js",
       "types": "./lib/types/src/index.d.ts"
     }
+  },
+  "homepage": "https://unpkg.com/dark-light-element@latest/demo.html",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xsf0105/dark-light-element.git"
   },
   "dependencies": {
     "quarkc": "^1.0.4"
