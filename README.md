@@ -22,7 +22,7 @@ Use CDN:
   <head>
     <title>🌒 toggles dark mode</title>
     <meta charset="utf-8" />
-    <!-- <script type="module" src="https://unpkg.com/dark-light-element"></script> -->
+    <script type="module" src="https://unpkg.com/dark-light-element"></script>
   </head>
   <body>
     <dark-light-element></dark-light-element>
