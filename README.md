@@ -1,3 +1,6 @@
+## Live demo
+
+https://unpkg.com/dark-light-element@latest/demo.html
 
 ## Installation
 

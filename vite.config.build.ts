@@ -17,7 +17,7 @@ export default defineConfig({
       fileName: "index",
     },
     rollupOptions: {
-      external: ['quarkc'],
+      // external: ['quarkc'],
       output: {
         dir: "lib",
       },
