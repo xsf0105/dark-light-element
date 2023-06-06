@@ -17,7 +17,7 @@ export default defineConfig({
       fileName: "index",
     },
     rollupOptions: {
-      // external: ['quarkc'],
+      // external: ['quarkc'], // 是否要将 quarkc 集成进组件
       output: {
         dir: "lib",
       },
